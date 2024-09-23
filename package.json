@@ -1,5 +1,5 @@
 {
-  "name": "aws-iconify-manjaro",
+  "name": "@mandarium/aws-iconify",
   "module": "index.ts",
   "type": "module",
   "devDependencies": {
@@ -9,7 +9,7 @@
   "peerDependencies": {
     "typescript": "^5.0.0"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "To install dependencies:",
   "main": "index.js",
   "dependencies": {
